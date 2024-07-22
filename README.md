@@ -1,4 +1,4 @@
-# Hi there, I'm Ralph Betesh 👋
+# Hey! I'm Ralph Betesh 👋
 
 ## About Me
 I'm a passionate Computer Science student at Columbia University with a deep interest in using the power of big data and AI to solve real world problems
