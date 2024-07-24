@@ -1,7 +1,7 @@
 # Hey! I'm Ralph Betesh 👋
 
 ## About Me
-I'm a rising junior @ Columbia studying CS hoping to leverage the power of big data and AI to change the world.
+I'm a rising junior @ Columbia studying CS and a full-stack software developer. Nice to meet you!
 
 ### 🎓 Education
 - **Columbia University in the City of New York**
