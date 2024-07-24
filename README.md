@@ -1,7 +1,7 @@
 # Hey! I'm Ralph Betesh 👋
 
 ## About Me
-I'm a passionate Computer Science student at Columbia University with a deep interest in using the power of big data and AI to solve real-world problems.
+I'm a rising junior @ Columbia studying CS hoping to leverage the power of big data and AI to change the world.
 
 ### 🎓 Education
 - **Columbia University in the City of New York**
@@ -24,9 +24,9 @@ I'm a passionate Computer Science student at Columbia University with a deep int
 - **Spoken Languages:** English (Native), Hebrew (Fluent)
 
 ### 💼 Experience
-- **UBS | Software Engineering Intern (Private Wealth Management)**
-  - Developing a CRM system to improve client data management and outreach efforts.
-  - Implementing automated marketing and outreach alerts, enhancing client engagement and satisfaction.
+- **UBS | Technology Intern (Private Wealth Management)**
+  - Developing Salesforce CRM to improve client data management and outreach efforts.
+  - Implementing automated marketing and outreach alerts using Python and Zapier, enhancing client engagement and satisfaction.
   - Redesigning the team’s landing page to improve user experience and retention.
 
 - **Cypris AI | Software Engineering Intern**
