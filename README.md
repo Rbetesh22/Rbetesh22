@@ -7,8 +7,7 @@ I'm a junior @ Columbia studying CS and a full-stack software developer. Nice to
 - **Columbia University in the City of New York**
   - Bachelor of Arts in Computer Science
   - Dean's List
-  - **Relevant Coursework:** Data Structures and Algorithms, Algorithmic Thinking & Development (C, C++, Java, Python), Intro to Computer Science in Java, Discrete Mathematics
-
+  - **Relevant Coursework:** Data Structures & Algorithms, Advanced Programming in C, Artificial Intelligence, Introduction to Databases, Algorithmic Thinking & Development (C, C++, Java, Python), Principles of Innovation & Entrepreneurship, Discrete Mathematics, Introduction to Computer Science in Java
 - **Tel Aviv University (Joint program with Columbia University)**
   - Bachelor of Arts in Business Management
   - Dean's List
