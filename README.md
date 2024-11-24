@@ -23,14 +23,15 @@ I'm a junior @ Columbia studying CS and a full-stack software developer. Nice to
 - **Spoken Languages:** English (Native), Hebrew (Fluent)
 
 ### 💼 Experience
+- **Cypris AI | Software Engineering Intern**
+  - Initially hired as a Backend Software Engineering Intern (Jun 2023 – Sep 2023), creating a robust patent citation API in Java, using Spring Boot and RESTful services, and writing Python scripts to scrape and transfer content using BeautifulSoup and Selenium to optimize website data flow and reduce page load times by 7%.
+  - Working part-time with the CEO to collaborate in the development of a continuous data integration platform for Fortune 100 R&D teams.
+
 - **UBS | Technology Intern (Private Wealth Management)**
   - Developing Salesforce CRM to improve client data management and outreach efforts.
   - Implementing automated marketing and outreach alerts using Python and Zapier, enhancing client engagement and satisfaction.
   - Redesigning the team’s landing page to improve user experience and retention.
 
-- **Cypris AI | Software Engineering Intern**
-  - Created a robust patent citation API in Java, improving intellectual property research capabilities and enhancing client satisfaction by 8% across three sectors.
-  - Enhanced website performance with Python scripts, reducing page load times by 30%.
 
 - **Alchemy Worx | Data Analytics Intern**
   - Developed an automated reporting framework using SQL, Google Cloud BigQuery, and Google Data Studio, saving analysts an average of 40 hours per week.
