@@ -1,7 +1,7 @@
 # Hey! I'm Ralph Betesh 👋
 
 ## About Me
-I'm a junior @ Columbia studying CS and a full-stack software developer. Nice to meet you!
+I'm a student @ Columbia studying CS and a full-stack software developer. Nice to meet you!
 
 ### 🎓 Education
 - **Columbia University in the City of New York**
