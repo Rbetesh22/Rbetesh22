@@ -5,13 +5,13 @@ I'm a student @ Columbia studying CS and a full-stack software developer. Nice t
 
 ### 🎓 Education
 - **Columbia University in the City of New York**
-  - Bachelor of Arts in Computer Science
+  - BA/MS in Computer Science
   - Dean's List
-  - **Relevant Coursework:** Data Structures & Algorithms, Advanced Programming in C, Artificial Intelligence, Introduction to Databases, Algorithmic Thinking & Development (C, C++, Java, Python), Principles of Innovation & Entrepreneurship, Discrete Mathematics, Introduction to Computer Science in Java
+  - **Relevant Coursework:** Data Structures, Advanced Programming in C, Artificial Intelligence, Databases, Algorithms (C, C++, Java, Python), Innovation & Entrepreneurship, Discrete Mathematics, Operating Systems, Advanced Databases, Analysis of Algorthims, Computer Networks, Linear Algebra, Probability, Computer Science Theory, Distributed Systems, Natural Language Processing, Fundamentals of Computer Systems
 - **Tel Aviv University (Joint program with Columbia University)**
   - Bachelor of Arts in Business Management
   - Dean's List
-  - **Relevant Coursework:** Economics, Finance, Marketing, Project Management, Startup Law
+  - **Relevant Coursework:** Economics, Finance, Accounting, Marketing, Project Management, Startup Law
 
 - **Noble Desktop**
   - Full-Stack Web Development Bootcamp
