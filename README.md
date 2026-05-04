@@ -32,7 +32,7 @@ I'm a CS grad student and a full-stack software engineer interested in distribut
   - Transitioned 100+ clients from static Excel reports to custom, interactive dashboards, improving retention by 3% during Q3 2021.
 
 ### 🚀 Projects
-- **Neuron** (Feb 2026 – Present)
+- **Jimmy** (Feb 2026 – Present)
   - Building a full-stack AI system with Next.js and Python to ingest and index unstructured data, enabling low-latency semantic search over personal knowledge bases using PostgreSQL and the OpenAI API.
   - Designing a vector retrieval pipeline using 150K+ embeddings and similarity search to power context-aware LLM applications.
 - **Allowance** (Spring 2026)
